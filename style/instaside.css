@@ -1,0 +1,50 @@
+.insta{
+  width:90px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.ima{
+  padding:10px;
+  width:227px;
+  display:flex;
+  flex-direction:row;
+  transition: background-color 0.15s;
+}
+.ima img{
+  width: 24px;
+}
+.ima:hover{
+  background-color: rgb(214, 212, 212);
+  cursor:pointer;
+}
+.mid{
+  margin-top:50px;
+  margin-bottom: 160px;
+  display: flex;
+  flex-direction: column;
+}
+.imag{
+  padding:10px;
+  width:227px;
+  display:flex;
+  flex-direction:row;
+  transition: background-color 0.15s;
+}
+.imag img{
+  width: 20px;
+}
+.imag:hover{
+  background-color: rgb(214, 212, 212);
+  cursor:pointer;
+}
+.last{
+  width: 75px;
+}
+.tex{
+  display:inline-block;
+  margin-left:15px;
+  font-family: Roboto,Arial;
+  font-weight: bold;
+  font-size: 14px;
+  transition: background-color 0.15s;
+}

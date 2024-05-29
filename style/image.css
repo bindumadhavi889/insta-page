@@ -1,0 +1,31 @@
+.side-bar{
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-style: solid;
+  border-color: gray;
+  border-right-width: 1px;
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
+.mid-col{
+  display:flex;
+  flex-direction: column;
+  margin-left: 233px;
+}
+.last-col{
+  display:flex;
+  flex-direction: column;
+  right:0;
+}
+.sugges{
+  width:340px;
+}
+body{
+  display:flex;
+  flex-direction: row;
+}

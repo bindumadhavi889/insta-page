@@ -1,0 +1,64 @@
+.profile-suggestions{
+  width:44px;
+  height:44px;
+  border-radius:22px;
+  object-fit:cover;
+}
+.tex-sugg{
+  display:grid;
+  grid-template-columns:200px 200px;
+  font-family:Roboto,Arial;
+  font-weight:bold;
+  font-size:14px;
+  margin-bottom:20px;
+}
+.pro-in{
+  font-size:14px;
+  font-weight:bold; 
+  margin-bottom: -5px;
+}
+.pro-info{
+  margin-top: 0;
+  font-size:14px;
+}
+.info{
+  margin-top:5px;
+  margin-left:10px;
+}
+.pro-inf{
+  color:blue;
+  font-family:Roboto,Arial;
+  font-size:14px;
+  font-weight:bold;
+  margin-top:10px;
+  margin-left:-75px;
+}
+.star{
+  display:grid;
+  grid-template-columns: 50px 300px 70px;
+}
+.start{
+  display:grid;
+  grid-template-columns: 50px 300px 70px;
+  margin-top:30px;
+}
+.prof-suggestions{
+  width:44px;
+  height:44px;
+  border-radius:22px;
+  object-fit:cover;
+}
+.see{
+  margin-left:75px;
+}
+.insta-text{
+  margin-top:50px;
+  width: 300px;
+  font-weight:bold;
+  color: rgb(101, 101, 101);
+  font-size:13px;
+  line-height:30px;
+}
+.ins-text{
+  line-height:20px;
+}
